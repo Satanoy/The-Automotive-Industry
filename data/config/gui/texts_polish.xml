@@ -1,0 +1,76 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1889000000</GUID>
+      <Text>Nadwozie samochodu</Text>
+    </Text>
+    <Text>
+      <GUID>1888999999</GUID>
+      <Text>Zakład Samochodowy</Text>
+    </Text>
+    <Text>
+      <GUID>1888999998</GUID>
+      <Text>Zintegrowana fabryka montażowa</Text>
+    </Text>
+    <Text>
+      <GUID>1888999997</GUID>
+      <Text>Zakład przeznaczony do produkcji i montażu części do przyszłych samochodów, w którym każdy element nabiera kształtu, aż stanie się podwoziem lub nadwoziem.</Text>
+    </Text>
+    <Text>
+      <GUID>1888999995</GUID>
+      <Text>Zintegrowany montaż: podwozie</Text>
+    </Text>
+    <Text>
+      <GUID>1888999994</GUID>
+      <Text>Produkcja i montaż podwozi do samochodów osobowych</Text>
+    </Text>
+    <Text>
+      <GUID>1888999993</GUID>
+      <Text>Podwozie</Text>
+    </Text>
+    <Text>
+      <GUID>1888999992</GUID>
+      <Text>Zintegrowany montaż: nadwozie samochodu</Text>
+    </Text>
+    <Text>
+      <GUID>1888999991</GUID>
+      <Text>Produkcja i montaż karoserii do Twoich samochodów</Text>
+    </Text>
+    <Text>
+      <GUID>1888999990</GUID>
+      <Text>Nadwozie samochodu</Text>
+    </Text>
+    <Text>
+      <GUID>1888999996</GUID>
+      <Text>Zintegrowana fabryka montażowa</Text>
+    </Text>
+    <Text>
+      <GUID>1888999989</GUID>
+      <Text>Samochody</Text>
+    </Text>
+    <Text>
+      <GUID>1888999982</GUID>
+      <Text>Synergia linii</Text>
+    </Text>
+    <Text>
+      <GUID>1888999981</GUID>
+      <Text>Zoptymalizowana produkcja dzięki bliskości kluczowych zakładów montażowych.</Text>
+    </Text>
+    <Text>
+      <GUID>1888999986</GUID>
+      <Text>Clara Hoffmann</Text>
+    </Text>
+    <Text>
+      <GUID>1888999985</GUID>
+      <Text>Pionier w projektowaniu nadwozi samochodowych, znany z wprowadzania lekkich stopów odpornych na zużycie bez utraty sztywności.</Text>
+    </Text>
+        <Text>
+      <GUID>1888999984</GUID>
+      <Text>Tomás Ferraro</Text>
+    </Text>
+    <Text>
+      <GUID>1888999983</GUID>
+      <Text>Jako mistrz linii montażowej zoptymalizował każde stanowisko pracy, aby skrócić przestoje i zwiększyć ogólną wydajność.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

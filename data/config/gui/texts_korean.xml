@@ -1,0 +1,76 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1889000000</GUID>
+      <Text>Car Body</Text>
+    </Text>
+    <Text>
+      <GUID>1888999999</GUID>
+      <Text>Automotive Plant</Text>
+    </Text>
+    <Text>
+      <GUID>1888999998</GUID>
+      <Text>Integrated Assembly Plant</Text>
+    </Text>
+    <Text>
+      <GUID>1888999997</GUID>
+      <Text>Facility dedicated to the production and assembly of parts for future automobiles, where each component takes shape until it becomes a chassis or body.</Text>
+    </Text>
+    <Text>
+      <GUID>1888999995</GUID>
+      <Text>Integrated Assembly: Chassis</Text>
+    </Text>
+    <Text>
+      <GUID>1888999994</GUID>
+      <Text>Production and assembly of chassis for your cars</Text>
+    </Text>
+    <Text>
+      <GUID>1888999993</GUID>
+      <Text>Chassis</Text>
+    </Text>
+    <Text>
+      <GUID>1888999992</GUID>
+      <Text>Integrated Assembly: Car Body</Text>
+    </Text>
+    <Text>
+      <GUID>1888999991</GUID>
+      <Text>Production and assembly of Car-Body for your cars</Text>
+    </Text>
+    <Text>
+      <GUID>1888999990</GUID>
+      <Text>Car Body</Text>
+    </Text>
+    <Text>
+      <GUID>1888999996</GUID>
+      <Text>Integrated Assembly Plant</Text>
+    </Text>
+    <Text>
+      <GUID>1888999989</GUID>
+      <Text>Cars</Text>
+    </Text>
+    <Text>
+      <GUID>1888999982</GUID>
+      <Text>Line Synergy</Text>
+    </Text>
+    <Text>
+      <GUID>1888999981</GUID>
+      <Text>Optimized production thanks to the proximity of key assembly plants.</Text>
+    </Text>
+    <Text>
+      <GUID>1888999986</GUID>
+      <Text>Clara Hoffmann</Text>
+    </Text>
+    <Text>
+      <GUID>1888999985</GUID>
+      <Text>A pioneer in structural Car-body-design, famous for introducing lightweight alloys that resist wear without sacrificing rigidity.</Text>
+    </Text>
+        <Text>
+      <GUID>1888999984</GUID>
+      <Text>Tomás Ferraro</Text>
+    </Text>
+    <Text>
+      <GUID>1888999983</GUID>
+      <Text>A master of the assembly line, it optimized every workstation to reduce downtime and increase overall efficiency.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,76 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1889000000</GUID>
+      <Text>Karosserie</Text>
+    </Text>
+    <Text>
+      <GUID>1888999999</GUID>
+      <Text>Automobilfabrik</Text>
+    </Text>
+    <Text>
+      <GUID>1888999998</GUID>
+      <Text>Integrierte Montageanlage</Text>
+    </Text>
+    <Text>
+      <GUID>1888999997</GUID>
+      <Text>Anlage, die der Produktion und Montage von Teilen für zukünftige Automobile gewidmet ist, in der jedes Bauteil Form annimmt, bis es zu einem Fahrgestell oder einer Karosserie wird.</Text>
+    </Text>
+    <Text>
+      <GUID>1888999995</GUID>
+      <Text>Integrierte Montage: Fahrgestell</Text>
+    </Text>
+    <Text>
+      <GUID>1888999994</GUID>
+      <Text>Produktion und Montage von Fahrgestellen für Autos</Text>
+    </Text>
+    <Text>
+      <GUID>1888999993</GUID>
+      <Text>Fahrgestell</Text>
+    </Text>
+    <Text>
+      <GUID>1888999992</GUID>
+      <Text>Integrierte Montage: Karosserie</Text>
+    </Text>
+    <Text>
+      <GUID>1888999991</GUID>
+      <Text>Produktion und Fertigung von Karosserien von Autos</Text>
+    </Text>
+    <Text>
+      <GUID>1888999990</GUID>
+      <Text>Karosserie</Text>
+    </Text>
+    <Text>
+      <GUID>1888999996</GUID>
+      <Text>Integrierte Montageanlage</Text>
+    </Text>
+    <Text>
+      <GUID>1888999989</GUID>
+      <Text>Automobile</Text>
+    </Text>
+    <Text>
+      <GUID>1888999982</GUID>
+      <Text>Produktionssynergie</Text>
+    </Text>
+    <Text>
+      <GUID>1888999981</GUID>
+      <Text>Optimierte Produktion dank der Nähe wichtiger Montageanlagen.</Text>
+    </Text>
+    <Text>
+      <GUID>1888999986</GUID>
+      <Text>Clara Hoffmann</Text>
+    </Text>
+    <Text>
+      <GUID>1888999985</GUID>
+      <Text>Eine Pionierin im strukturellen Karosseriedesign, berühmt dafür, leichte Legierungen eingeführt zu haben, die verschleißfest sind, ohne an Belastbarkeit zu verlieren.</Text>
+    </Text>
+        <Text>
+      <GUID>1888999984</GUID>
+      <Text>Tomás Ferraro</Text>
+    </Text>
+    <Text>
+      <GUID>1888999983</GUID>
+      <Text>Ein Meister der Produktionslinie, der jeden Arbeitsplatz optimierte, um Ausfallzeiten zu reduzieren und die Gesamteffizienz zu steigern.</Text>
+    </Text>
+  </ModOp>
+</ModOps>
