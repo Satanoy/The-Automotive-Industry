@@ -1,0 +1,82 @@
+{
+  "Version": "0.0162",
+  "ModID": "Automotive_Industry",
+  "IncompatibleIds": [],
+  "ModDependencies": [
+    "cars-newhorizons",
+    "rubber_kurila",
+    "shared_rubber_factory_kurila",
+    "shared-pools-and-definitions",
+    "shared-sulfur-production-lion053"
+  ],
+  "LoadAfterIds": [
+    "cars-newhorizons",
+    "rubber_kurila",
+    "shared_rubber_factory_kurila",
+    "shared-pools-and-definitions",
+    "shared-sulfur-production-lion053"
+  ],
+  "Category": {
+    "Chinese": "Gameplay",
+    "English": "Gameplay",
+    "French": "Gameplay",
+    "German": "Gameplay",
+    "Italian": "Gameplay",
+    "Japanese": "Gameplay",
+    "Korean": "Gameplay",
+    "Polish": "Gameplay",
+    "Russian": "Gameplay",
+    "Spanish": "Gameplay",
+    "Taiwanese": "Gameplay"
+  },
+    "ModName": {
+    "Chinese": "汽车工业",
+    "English": "Automotive Industry",
+    "French": "Industrie automobile",
+    "German": "Automobilindustrie",
+    "Italian": "Industria automobilistica",
+    "Japanese": "自動車産業",
+    "Korean": "자동차 산업",
+    "Polish": "Przemysł motoryzacyjny",
+    "Russian": "Автомобильная промышленность",
+    "Spanish": "Industria automotriz",
+    "Taiwanese": "汽車工業"
+  },
+  "Description": {
+    "Chinese": "一个小型、低成本但高利润的模组，引入了汽车生产线。",
+    "English": "A small, low-cost, high-profit Mod introduces a production line for automobiles.",
+    "French": "Un petit mod à faible coût mais à haut profit introduit une chaîne de production d’automobiles.",
+    "German": "Ein kleines, kostengünstiges und profitables Mod führt eine Produktionslinie für Automobile ein.",
+    "Italian": "Una piccola mod a basso costo ma ad alto profitto introduce una linea di produzione per automobili.",
+    "Japanese": "小規模で低コストながら高利益のModで、自動車の生産ラインを導入します。",
+    "Korean": "소형이지만 저비용·고수익의 모드로, 자동차 생산 라인을 도입합니다.",
+    "Polish": "Mały, niedrogi, ale bardzo dochodowy mod wprowadza linię produkcyjną samochodów.",
+    "Russian": "Небольшой, недорогой, но высокоприбыльный мод добавляет производственную линию автомобилей.",
+    "Spanish": "Pequeño mod de bajo costo pero altas ganancias, introduce una línea de producción para automóviles.",
+    "Taiwanese": "小型、低成本但高利潤的模組，新增汽車生產線。"
+  },
+  "KnownIssues": [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [
+    {
+      "DLC": "HighLife",
+      "Dependant": null
+    }
+  ],
+  "CreatorName": "Satanoy",
+  "CreatorContact": null,
+  "Image" : "banner.png"
+}
