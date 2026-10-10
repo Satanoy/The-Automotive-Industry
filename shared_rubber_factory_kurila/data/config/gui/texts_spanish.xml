@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+      <Text>
+        <GUID>1500302357</GUID>
+        <Text>Fábrica de caucho</Text>
+      </Text>
+  </ModOp>
+</ModOps>
