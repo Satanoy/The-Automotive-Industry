@@ -47,8 +47,3 @@ GUIDS
 
 <img width="1666" height="1024" alt="banner" src="https://github.com/user-attachments/assets/8653b2eb-8dd9-45ce-bd52-952821368888" />
 
-
--Trigger (Unhide)	                 1888999988
-
--Trigger (Unlock)	                 1888999987
-
